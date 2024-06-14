@@ -1,5 +1,32 @@
 [
   {
-    ""
+    "file_name" : "print.otf",
+    "path": "/print.otf",
+    "hash": "8a080d8c7f5da78dafc0562f5b899804931efa5a96718d818f6b55ef4f549e17",
+    "is_dir": false
+  },
+  {
+    "file_name" : "aid",
+    "path": "/aid",
+    "hash": "b7229797c57e807a31d7ca26a94fefaa05ff8c7b19dfb5c4740af3ba5fd3b458",
+    "is_dir": false
+  },
+  {
+    "file_name" : "capk",
+    "path": "/capk",
+    "hash": "f56d7f480f3b66216f0aa0ffbdbbf8c469e76e2ee32cd9369eb8acff662c000b",
+    "is_dir": false
+  },
+  {
+    "file_name" : "bank_logo",
+    "path": "/bank-logo.tar.xz",
+    "hash": "2bb7aff9938ce19611eda26ef28253daeadc68516026bc8660a689b79563f713",
+    "is_dir": true
+  },
+  {
+    "file_name" : "receipt",
+    "path": "/receipt-logo.tar.xz",
+    "hash": "a10558273207f9a8ba16d691ab1d0388fba2b7ae81d187f49031afb16c6f63a4",
+    "is_dir": true
   }
 ]
